@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
   "message": "This is new Feature Update",
-  "download": "www.mmplaystore.com/mmplaystore.apk",
+  "download": "https://www.mmplaystore.com/mmplaystore.apk",
   "playstore": "com.mgngoe.zfont",
   "uninstall": false,
   "what": {
