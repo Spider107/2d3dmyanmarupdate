@@ -3,7 +3,7 @@
   "message": "This is new Feature Update",
   "download": "https://www.mmplaystore.com/mmplaystore.apk",
   "playstore": "com.mgngoe.zfont",
-  "uninstall": false,
+  "uninstall": true,
   "what": {
     "model": [],
     "version": [],
